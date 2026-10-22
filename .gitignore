@@ -1,0 +1,20 @@
+# Datasets grandes
+notebooks/data/
+EC2/datos_limpios.csv
+EC2/DATASET_CEXTERNA_2015_2022_0.csv
+
+# Modelos entrenados
+notebooks/cifar_net.pth
+
+# Temporales de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Configuración local
+.env
